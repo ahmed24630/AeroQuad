@@ -1,0 +1,70 @@
+Partlist
+
+Exported from AeroQuad_v206.sch at 6/11/2022 2:30 PM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part           Value           Device          Package   Library             Sheet
+
++5V                            M02PTH          1X02      SparkFun            1
+3V_I2C_1                       M04LOCK         1X04_LOCK SparkFun            1
+3V_I2C_2                       M04LOCK         1X04_LOCK SparkFun            1
+ACCEL          BMA180          M08LOCK         1X08_LOCK SparkFun            1
+ADC_HIGH1                      M08LOCK         1X08_LOCK SparkFun            1
+ADC_HIGH2                      M08LOCK         1X08_LOCK SparkFun            1
+ADC_LOW1                       M08LOCK         1X08_LOCK SparkFun            1
+ADC_LOW2                       M08LOCK         1X08_LOCK SparkFun            1
+AI_GND                         M07             1X07      SparkFun            1
+AI_PWR                         M07             1X07      SparkFun            1
+ANALOG_INPUT                   M07             1X07      SparkFun            1
+BARO           BMP085          M06LOCK         1X06_LOCK SparkFun            1
+COMM1                          M08LOCK         1X08_LOCK SparkFun            1
+COMM2                          M08LOCK         1X08_LOCK SparkFun            1
+DIO_22-53                      PINHD-2X16      2X16      pinhead             1
+ESC_GND        M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+ESC_PWR        M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+ESC_SIGNAL     M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+GND                            M02PTH          1X02      SparkFun            1
+GPS                            M04LOCK         1X04_LOCK SparkFun            1
+GYRO           ITG3200         M07LOCK         1X07_LOCK SparkFun            1
+HMC5843                        M04LOCK         1X04_LOCK SparkFun            1
+I2C_GND        M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+ICSP           AVR_SPI_PRG_6NS AVR_SPI_PRG_6NS 2X3-NS    SparkFun            1
+JP1                            M07             1X07      SparkFun            1
+JP2                            M07             1X07      SparkFun            1
+JP3                            M07             1X07      SparkFun            1
+JP4                            M07             1X07      SparkFun            1
+JP5                            M04PTH          1X04      SparkFun            1
+JP6                            M04PTH          1X04      SparkFun            1
+JP7                            M04PTH          1X04      SparkFun            1
+JP8                            M07             1X07      SparkFun            1
+LED            ULN2003A        ULN2003A        DIL16     CaranchoEngineering 1
+LED1                           LED5MM          LED5MM    SparkFun            1
+LED2                           LED5MM          LED5MM    SparkFun            1
+LED3                           LED5MM          LED5MM    SparkFun            1
+LED_GND                        M07LOCK         1X07_LOCK SparkFun            1
+LED_PWR                        M07LOCK         1X07_LOCK SparkFun            1
+LEVELSHIFTIN                   M06LOCK         1X06_LOCK SparkFun            1
+LEVELSHIFTOUT                  M06LOCK         1X06_LOCK SparkFun            1
+OSD                            M06LOCK         1X06_LOCK SparkFun            1
+POWER1                         M06LOCK         1X06_LOCK SparkFun            1
+POWER2                         M06LOCK         1X06_LOCK SparkFun            1
+PWM_HIGH1                      M08LOCK         1X08_LOCK SparkFun            1
+PWM_HIGH2                      M08LOCK         1X08_LOCK SparkFun            1
+PWM_LOW1                       M08LOCK         1X08_LOCK SparkFun            1
+PWM_LOW2                       M08LOCK         1X08_LOCK SparkFun            1
+R3             15k             R-US_0204/5     0204/5    resistor            1
+R4             7.5k            R-US_0204/5     0204/5    resistor            1
+RCV_GND        M10LOCK         M08LOCK         1X08_LOCK SparkFun            1
+RCV_PWR        M10LOCK         M08LOCK         1X08_LOCK SparkFun            1
+RECEIVER_INPUT                 M08LOCK         1X08_LOCK SparkFun            1
+SCL            M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+SDA            M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+SERVO_GND      M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+SERVO_PWR      M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+SERVO_SIGNAL   M10LOCK         M10LOCK         1X10_LOCK SparkFun            1
+SPI                            M06LOCK         1X06_LOCK SparkFun            1
+U$8            M18_            M18_            1X18      SparkFun            1
+U$9            M18_            M18_            1X18      SparkFun            1
